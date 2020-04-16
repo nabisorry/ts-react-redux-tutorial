@@ -1,5 +1,3 @@
-import { ReactType } from "react";
-
 const INCREASE = "counter/INCREASE" as const; //as const 는 타입추론을 보다 명확히 하기 위해
 const DECREASE = "counter/DECREASE" as const;
 const INCREASE_BY = "counter/INCERASE_BY" as const;
